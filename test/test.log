@@ -1,0 +1,4 @@
+[2022-09-08 11:37:30,441] - [trainer.py file line:36] - INFO: load_model_path: FASR_IXI.pt
+[2022-09-08 11:37:31,136] - [trainer.py file line:44] - INFO: Test process...
+[2022-09-08 11:37:31,136] - [trainer.py file line:45] - INFO: ref path:    /home/lab533/sr_medical/code/upload_test/demo/ref
+[2022-09-08 11:37:35,548] - [trainer.py file line:119] - INFO: Test over.
