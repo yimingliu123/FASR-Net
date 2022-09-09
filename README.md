@@ -10,6 +10,12 @@
 - [Requirements and dependencies](#Requirements-and-Dependencies)
 
 - [Quick Test](#Quick-Test)
+&nbsp;
+
+<p align="center">
+<img src='./images/overview.png'>
+</p>
+&nbsp;
 
 ## Declaration
 
