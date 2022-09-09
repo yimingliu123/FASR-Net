@@ -37,6 +37,7 @@
 
 ## Demo Results
    The images on the left are ground-truth, the images on the right are super-resolution images produced by our method.
+
 <img src="demo/hr/IXI002_95.png" height="160px"/> <img src="test/save_results/IXI002_95.png" height="160px"/> <img src="demo/hr/IXI013_15.png" height="160px"/> <img src="test/save_results/IXI013_15.png" height="160px"/> 
 <img src="demo/hr/IXI012_45.png" height="160px"/> <img src="test/save_results/IXI012_45.png" height="160px"/> 
 <img src="demo/hr/IXI012_18.png" height="160px"/> <img src="test/save_results/IXI012_18.png" height="160px"/>
