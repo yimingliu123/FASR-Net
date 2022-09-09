@@ -13,13 +13,13 @@
 &nbsp;
 
 <p align="center">
-<img src='./images/overview.png'>
+<img src='./image/overview.png'>
 </p>
 &nbsp;
 
 ## Declaration
 
-​		For confidentiality reasons, we only demonstrate our testing codes to demonstrate the authenticity and excellence of our methods. If the paper is officially published, we will update our training code.
+​		For confidential reasons, we only demonstrate our testing codes to demonstrate the authenticity and excellence of our methods. If the paper is officially published, we will update our training code.
 
 ## Models
 
@@ -36,6 +36,10 @@
 ​	The Fastmri dataset can be downloaded from [Fastmri](https://fastmri.org/).
 
 ## Demo Results
+   The images on the left are ground-truth, the images on the right are super-resolution images produced by our method.
+<img src="demo/hr/IXI002_95.png" height="160px"/> <img src="test/save_results/IXI002_95.png" height="160px"/> <img src="demo/hr/IXI013_15.png" height="160px"/> <img src="test/save_results/IXI013_15.png" height="160px"/> 
+<img src="demo/hr/IXI012_45.png" height="160px"/> <img src="test/save_results/IXI012_45.png" height="160px"/> 
+<img src="demo/hr/IXI012_18.png" height="160px"/> <img src="test/save_results/IXI012_18.png" height="160px"/>
 
 ## Requirements and Dependencies
 
