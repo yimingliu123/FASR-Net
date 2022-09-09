@@ -55,7 +55,7 @@
 1.  Clone the github repo
 
    ```
-   git clone https://github.com/yimingliu123/FASR-Net
+   git clone https://github.com/yimingliu123/FASR-Net.git
    cd FASR-Net
    ```
 
